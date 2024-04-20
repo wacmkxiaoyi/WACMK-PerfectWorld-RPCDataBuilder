@@ -78,7 +78,7 @@ retn
 5. run
 
 ```shell
-python build.py
+python build.py {clsname}
 ```
 
 6. upload the contents in result.py to WACMK server
